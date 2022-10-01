@@ -13,7 +13,7 @@ const Home = () => {
                     I am a third year student at Indore Institute of Science and Technology.
                     Currently, I'm pursuing my Bachelor degree in Computer Science.
                     I'm learning to work on web application using technologies like
-                    React, Tailwind, Bootstrap Material UI, Rapid API.
+                    React, Tailwind, Bootstrap, Material UI, Rapid API.
                     I'm also proficient in programming languages like C, C++, Python, React and JavaScript.
                 </p>
 
