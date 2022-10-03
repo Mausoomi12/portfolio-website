@@ -7,6 +7,8 @@ import bootstrap from "../assets/bootstrap.png";
 import python from "../assets/python.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import CP from "../assets/CP.png";
+import cpp from "../assets/cpp.png";
 
 const Experience = () => {
 
@@ -59,6 +61,18 @@ const Experience = () => {
             title: 'GitHub',
             style: 'shadow-gray-400'
         },
+        {
+            id: 9,
+            src: CP,
+            title: 'C',
+            style: 'shadow-violet-400'
+        },
+        {
+            id: 10,
+            src: cpp,
+            title: 'C++',
+            style: 'shadow-blue-400'
+        },
     ]
 
 
@@ -69,7 +83,9 @@ const Experience = () => {
 
        <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
         <div>
-            <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">Experience</p>
+            <p className="text-4xl font-bold border-b-4 border-gray-500 p-0 inline">
+                <br/><br/><br/><br/>Experience
+            </p>
             <p className="py-6">These are the technologies I've worked with</p>
         </div>
 
@@ -82,7 +98,7 @@ const Experience = () => {
                  key={id} 
                  className={`shadow-md hover:scale-105 duration-500 py-2 rounded-lg ${style}`}>
                     <img src={src} alt="" className="w-20 mx-auto" />
-                    <p className="mt-4">{title}</p>
+                    <p className="mt-4 ">{title}</p>
                 </div>
                 ))
             }
