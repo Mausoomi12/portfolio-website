@@ -11,13 +11,14 @@ const About = () => {
             </div>
 
         <p className="text-xl mt-20">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores officiis non odio quia necessitatibus similique quae quidem voluptate adipisci, autem impedit minima eos perspiciatis in rerum aliquam. Nulla molestias possimus quisquam incidunt. Itaque repellat quibusdam laudantium id exercitationem fuga labore. Modi, beatae molestiae? Quam, cumque esse corrupti voluptate voluptatum nemo!
+        Hello! I'm Mausoomi Roy and I'm a pre-final year student who's currently pursuing her Bachelor degree in Computer Science and Engineering.
+
         </p>
         
         <br />
 
         <p className="text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum est quam reiciendis nulla cum libero enim officia magni aperiam dolore minima sit dolorem expedita, veniam fugit quia quod. Sint minus perferendis commodi accusantium optio vel, officiis rem architecto repellendus? Quam quia delectus hic vero magnam pariatur error rem dolores fugit.
+        I'm an experienced young leader with brief working experience in the e-learning industry. I possess skills in various programming languages such as React, Python, etc., communication, teamwork, and other technical skills. As a person who is constantly learning, I look forward to different opportunities that can give me new perspectives, so that I can expand my experience. I appreciate you taking the time to check out my portfolio. Don't hesitate to contact me ! 
         </p>
         </div>
     </div>
