@@ -22,18 +22,7 @@ const Portfolio = () => {
             id: 3,
             src: navbar,
         },
-        {
-            id: 4,
-            src: reactSmooth,
-        },
-        {
-            id: 5,
-            src: installNode,
-        },
-        {
-            id: 6,
-            src: reactWeather,
-        },
+        
     ]
 
 
