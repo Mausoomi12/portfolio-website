@@ -1,27 +1,34 @@
 import React from 'react';
 import portfolioImg from '../assets/portfolio/portfolioImg.jpg';
-import fitscorpionImg from '../assets/portfolio/fitscorpionImg.jpg';
-import roybotImg from '../assets/portfolio/roybotImg.jpg';
+import fitscorpionImg from '../assets/portfolio/fitscorpionImg.png';
+import linkShrink from '../assets/portfolio/linkShrink.png';
+import filefly from '../assets/portfolio/filefly.png';
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
       src: portfolioImg,
-      demoLink: 'https://mausoomi-roy-12.netlify.app/', // Add the demo link for the first item
-      codeLink: 'https://github.com/Mausoomi12/portfolio-website', // Add the code link for the first item
+      demoLink: 'https://mausoomi-roy-12.netlify.app/', 
+      codeLink: 'https://github.com/Mausoomi12/portfolio-website', 
     },
     {
       id: 2,
       src: fitscorpionImg,
-      demoLink: 'https://example.com/demo2', // Add the demo link for the second item
-      codeLink: 'https://github.com/Mausoomi12/Fit-scorpion-minor', // Add the code link for the second item
+      demoLink: 'https://fit-scorpion.vercel.app/', 
+      codeLink: 'https://github.com/Mausoomi12/Fit-scorpion-minor', 
     },
     {
       id: 3,
-      src: roybotImg,
-      demoLink: 'https://roy-bot.vercel.app/', // Add the demo link for the third item
-      codeLink: 'https://github.com/Mausoomi12/Roy-Bot', // Add the code link for the third item
+      src: linkShrink,
+      demoLink: 'https://link-shrink.onrender.com/', 
+      codeLink: 'https://github.com/Mausoomi12/Link-Shrink', 
+    },
+    {
+      id: 4,
+      src: filefly,
+      demoLink: 'https://filefly.onrender.com/', 
+      codeLink: 'https://github.com/Mausoomi12/FileFly', 
     },
   ];
 

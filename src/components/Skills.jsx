@@ -8,6 +8,9 @@ import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 import CP from "../assets/CP.png";
 import cpp from "../assets/cpp.png";
+import mongodb from '../assets/mongodb.png';
+import node from '../assets/node.png';
+import express from '../assets/express.png';
 
 const Experience = () => {
   const techs = [
@@ -64,6 +67,24 @@ const Experience = () => {
       src: cpp,
       title: 'C++',
       style: 'shadow-blue-400'
+    },
+    {
+      id: 10,
+      src: mongodb,
+      title: 'MongoDB',
+      style: 'shadow-green-400'
+    },
+    {
+      id: 11,
+      src: node,
+      title: 'Node.js',
+      style: 'shadow-green-300'
+    },
+    {
+      id: 12,
+      src: express,
+      title: 'Express.js',
+      style: 'shadow-gray-300'
     },
   ];
 

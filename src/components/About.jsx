@@ -11,14 +11,14 @@ const About = () => {
             </div>
 
         <p className="text-xl mt-20">
-        Hello! I'm Mausoomi Roy and I'm a pre-final year student currently pursuing my Bachelor degree in Computer Science and Engineering.
+        Hello! I'm Mausoomi Roy and I'm a final year student currently pursuing my Bachelor degree in Computer Science and Engineering.
 
         </p>
         
         <br />
 
         <p className="text-xl">
-        I've gained expertise in a number of programming languages, including React, Python, etc., and skills in communication, teamwork, and other technical areas. As a constant learner, I look forward to securing opportunities that will provide me with new perspectives, allowing me to become better at what I do. I appreciate you taking the time to check out my portfolio. Don't hesitate to contact me ! 
+        I've gained expertise in a number of programming languages, including JavaScript, C++, etc., and skills in advance and modern technologies like MERN stack. As a constant learner, I look forward to securing opportunities that will provide me with new perspectives, allowing me to become better at what I do. I appreciate you taking the time to check out my portfolio. Don't hesitate to contact me ! 
         </p>
         </div>
     </div>

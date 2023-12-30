@@ -13,7 +13,7 @@ const SocialLinks = () => {
                 LinkedIn <FaLinkedin size={30} />
                 </>  
             ),
-            href: 'https://linkedin.com',
+            href: 'https://www.linkedin.com/in/mausoomi-roy/',
             style: 'rounded-tr-md'
         },
         {
@@ -32,7 +32,7 @@ const SocialLinks = () => {
                 Mail <HiOutlineMail size={30} />
                 </>  
             ),
-            href: 'mailto:foo@gmail.com',
+            href: 'mailto:mausoomiroy68613@gmail.com',
             style: 'rounded-tr-md'
         },
         {
@@ -42,7 +42,7 @@ const SocialLinks = () => {
                 Resume <BsFillPersonLinesFill size={30} />
                 </>  
             ),
-            href: '/mausoomi-resume.pdf',
+            href: '/Mausoomi_Roy.pdf',
             style: 'rounded-tr-md',
             download: true,
         },
